@@ -9,6 +9,8 @@ This repository contains my first-semester academic projects and exercises devel
 * **Modularization:** Function definition and scope.
 * **Archives**
 
+* + **Final Project** (FEI's FOOD DELIVERY APP) in English and Portuguese.
+
 ### Environment:
 * **OS:** Windows 11
 * **IDE:** Visual Studio Code

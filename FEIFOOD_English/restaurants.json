@@ -1,0 +1,237 @@
+[
+    {
+        "Restaurant": "Japanese Food",
+        "Cuisine": "Japanese",
+        "Foods": [
+            {
+                "Name": "Sushi",
+                "Price": 25.0,
+                "Calories": 300,
+                "Preparation_Time_In_Minutes": 15,
+                "Rating": 0.7329613095238096,
+                "Rating_Count": 8
+            },
+            {
+                "Name": "Tempura",
+                "Price": 28.0,
+                "Calories": 400,
+                "Preparation_Time_In_Minutes": 20,
+                "Rating": 0,
+                "Rating_Count": 0
+            },
+            {
+                "Name": "Yakisoba",
+                "Price": 32.0,
+                "Calories": 500,
+                "Preparation_Time_In_Minutes": 25,
+                "Rating": 5.0,
+                "Rating_Count": 1
+            },
+            {
+                "Name": "Udon",
+                "Price": 30.0,
+                "Calories": 450,
+                "Preparation_Time_In_Minutes": 20,
+                "Rating": 5.0,
+                "Rating_Count": 2
+            },
+            {
+                "Name": "Sashimi",
+                "Price": 27.0,
+                "Calories": 200,
+                "Preparation_Time_In_Minutes": 10,
+                "Rating": 0,
+                "Rating_Count": 0
+            }
+        ],
+        "Neighborhood": "Liberdade"
+    },
+    {
+        "Restaurant": "Italian Food",
+        "Cuisine": "Italian",
+        "Foods": [
+            {
+                "Name": "Lasagna",
+                "Price": 35.0,
+                "Calories": 700,
+                "Preparation_Time_In_Minutes": 30,
+                "Rating": 2.5,
+                "Rating_Count": 2
+            },
+            {
+                "Name": "Pizza",
+                "Price": 40.0,
+                "Calories": 800,
+                "Preparation_Time_In_Minutes": 25,
+                "Rating": 0.5525890101410935,
+                "Rating_Count": 10
+            },
+            {
+                "Name": "Risotto",
+                "Price": 38.0,
+                "Calories": 600,
+                "Preparation_Time_In_Minutes": 30,
+                "Rating": 1.0319444444444443,
+                "Rating_Count": 6
+            },
+            {
+                "Name": "Gnocchi",
+                "Price": 33.0,
+                "Calories": 550,
+                "Preparation_Time_In_Minutes": 20,
+                "Rating": 1.3583333333333332,
+                "Rating_Count": 5
+            },
+            {
+                "Name": "Tiramisu",
+                "Price": 22.0,
+                "Calories": 450,
+                "Preparation_Time_In_Minutes": 15,
+                "Rating": 5.0,
+                "Rating_Count": 1
+            }
+        ],
+        "Neighborhood": "Downtown"
+    },
+    {
+        "Restaurant": "Argentine Food",
+        "Cuisine": "Argentine",
+        "Foods": [
+            {
+                "Name": "Barbecue",
+                "Price": 45.0,
+                "Calories": 900,
+                "Preparation_Time_In_Minutes": 35,
+                "Rating": 5.0,
+                "Rating_Count": 2
+            },
+            {
+                "Name": "Empanada",
+                "Price": 18.0,
+                "Calories": 350,
+                "Preparation_Time_In_Minutes": 15,
+                "Rating": 1.75,
+                "Rating_Count": 4
+            },
+            {
+                "Name": "Milanesa",
+                "Price": 34.0,
+                "Calories": 700,
+                "Preparation_Time_In_Minutes": 25,
+                "Rating": 5.0,
+                "Rating_Count": 2
+            },
+            {
+                "Name": "Provoleta",
+                "Price": 26.0,
+                "Calories": 500,
+                "Preparation_Time_In_Minutes": 15,
+                "Rating": 2.0833333333333335,
+                "Rating_Count": 4
+            },
+            {
+                "Name": "Alfajor",
+                "Price": 12.0,
+                "Calories": 300,
+                "Preparation_Time_In_Minutes": 10,
+                "Rating": 3.0,
+                "Rating_Count": 3
+            }
+        ],
+        "Neighborhood": "Jardins"
+    },
+    {
+        "Restaurant": "Mexican Food",
+        "Cuisine": "Mexican",
+        "Foods": [
+            {
+                "Name": "Burrito",
+                "Price": 30.0,
+                "Calories": 700,
+                "Preparation_Time_In_Minutes": 20,
+                "Rating": 5.0,
+                "Rating_Count": 2
+            },
+            {
+                "Name": "Taco",
+                "Price": 25.0,
+                "Calories": 450,
+                "Preparation_Time_In_Minutes": 15,
+                "Rating": 3.0,
+                "Rating_Count": 1
+            },
+            {
+                "Name": "Nachos",
+                "Price": 28.0,
+                "Calories": 600,
+                "Preparation_Time_In_Minutes": 10,
+                "Rating": 4.0,
+                "Rating_Count": 1
+            },
+            {
+                "Name": "Quesadilla",
+                "Price": 27.0,
+                "Calories": 550,
+                "Preparation_Time_In_Minutes": 15,
+                "Rating": 0,
+                "Rating_Count": 0
+            },
+            {
+                "Name": "Guacamole",
+                "Price": 20.0,
+                "Calories": 300,
+                "Preparation_Time_In_Minutes": 10,
+                "Rating": 4.0,
+                "Rating_Count": 1
+            }
+        ],
+        "Neighborhood": "Moema"
+    },
+    {
+        "Restaurant": "Vegan Food",
+        "Cuisine": "Vegan",
+        "Foods": [
+            {
+                "Name": "Chickpea wrap",
+                "Price": 26.0,
+                "Calories": 400,
+                "Preparation_Time_In_Minutes": 15,
+                "Rating": 0,
+                "Rating_Count": 0
+            },
+            {
+                "Name": "Quinoa salad",
+                "Price": 24.0,
+                "Calories": 350,
+                "Preparation_Time_In_Minutes": 10,
+                "Rating": 0,
+                "Rating_Count": 0
+            },
+            {
+                "Name": "Green smoothie",
+                "Price": 20.0,
+                "Calories": 250,
+                "Preparation_Time_In_Minutes": 5,
+                "Rating": 5.0,
+                "Rating_Count": 1
+            },
+            {
+                "Name": "Grilled tofu",
+                "Price": 28.0,
+                "Calories": 300,
+                "Preparation_Time_In_Minutes": 15,
+                "Rating": 0,
+                "Rating_Count": 0
+            },
+            {
+                "Name": "Vegan brownie",
+                "Price": 22.0,
+                "Calories": 450,
+                "Preparation_Time_In_Minutes": 20,
+                "Rating": 0,
+                "Rating_Count": 0
+            }
+        ],
+        "Neighborhood": "Pinheiros"
+    }
+]

@@ -1,0 +1,237 @@
+[
+    {
+        "Restaurante": "Japanese Food",
+        "Culinaria": "Japonesa",
+        "Alimentos": [
+            {
+                "Nome": "Sushi",
+                "Preco": 25.0,
+                "Calorias": 300,
+                "Tempo_Preparo_Em_Minutos": 15,
+                "Avaliacao": 0.8636904761904762,
+                "Quantidade_Avaliacoes": 7
+            },
+            {
+                "Nome": "Tempur\u00e1",
+                "Preco": 28.0,
+                "Calorias": 400,
+                "Tempo_Preparo_Em_Minutos": 20,
+                "Avaliacao": 0,
+                "Quantidade_Avaliacoes": 0
+            },
+            {
+                "Nome": "Yakisoba",
+                "Preco": 32.0,
+                "Calorias": 500,
+                "Tempo_Preparo_Em_Minutos": 25,
+                "Avaliacao": 0,
+                "Quantidade_Avaliacoes": 0
+            },
+            {
+                "Nome": "Udon",
+                "Preco": 30.0,
+                "Calorias": 450,
+                "Tempo_Preparo_Em_Minutos": 20,
+                "Avaliacao": 5.0,
+                "Quantidade_Avaliacoes": 2
+            },
+            {
+                "Nome": "Sashimi",
+                "Preco": 27.0,
+                "Calorias": 200,
+                "Tempo_Preparo_Em_Minutos": 10,
+                "Avaliacao": 0,
+                "Quantidade_Avaliacoes": 0
+            }
+        ],
+        "Bairro": "Liberdade"
+    },
+    {
+        "Restaurante": "Italian Food",
+        "Culinaria": "Italiana",
+        "Alimentos": [
+            {
+                "Nome": "Lasanha",
+                "Preco": 35.0,
+                "Calorias": 700,
+                "Tempo_Preparo_Em_Minutos": 30,
+                "Avaliacao": 2.5,
+                "Quantidade_Avaliacoes": 2
+            },
+            {
+                "Nome": "Pizza",
+                "Preco": 40.0,
+                "Calorias": 800,
+                "Tempo_Preparo_Em_Minutos": 25,
+                "Avaliacao": 0.5525890101410935,
+                "Quantidade_Avaliacoes": 10
+            },
+            {
+                "Nome": "Risoto",
+                "Preco": 38.0,
+                "Calorias": 600,
+                "Tempo_Preparo_Em_Minutos": 30,
+                "Avaliacao": 1.0319444444444443,
+                "Quantidade_Avaliacoes": 6
+            },
+            {
+                "Nome": "Nhoque",
+                "Preco": 33.0,
+                "Calorias": 550,
+                "Tempo_Preparo_Em_Minutos": 20,
+                "Avaliacao": 1.7916666666666665,
+                "Quantidade_Avaliacoes": 4
+            },
+            {
+                "Nome": "Tiramis\u00f9",
+                "Preco": 22.0,
+                "Calorias": 450,
+                "Tempo_Preparo_Em_Minutos": 15,
+                "Avaliacao": 0,
+                "Quantidade_Avaliacoes": 0
+            }
+        ],
+        "Bairro": "Centro"
+    },
+    {
+        "Restaurante": "Argentine Food",
+        "Culinaria": "Argentina",
+        "Alimentos": [
+            {
+                "Nome": "Churrasco",
+                "Preco": 45.0,
+                "Calorias": 900,
+                "Tempo_Preparo_Em_Minutos": 35,
+                "Avaliacao": 5.0,
+                "Quantidade_Avaliacoes": 2
+            },
+            {
+                "Nome": "Empanada",
+                "Preco": 18.0,
+                "Calorias": 350,
+                "Tempo_Preparo_Em_Minutos": 15,
+                "Avaliacao": 1.75,
+                "Quantidade_Avaliacoes": 4
+            },
+            {
+                "Nome": "Milanesa",
+                "Preco": 34.0,
+                "Calorias": 700,
+                "Tempo_Preparo_Em_Minutos": 25,
+                "Avaliacao": 5.0,
+                "Quantidade_Avaliacoes": 2
+            },
+            {
+                "Nome": "Provoleta",
+                "Preco": 26.0,
+                "Calorias": 500,
+                "Tempo_Preparo_Em_Minutos": 15,
+                "Avaliacao": 2.0833333333333335,
+                "Quantidade_Avaliacoes": 4
+            },
+            {
+                "Nome": "Alfajor",
+                "Preco": 12.0,
+                "Calorias": 300,
+                "Tempo_Preparo_Em_Minutos": 10,
+                "Avaliacao": 3.0,
+                "Quantidade_Avaliacoes": 3
+            }
+        ],
+        "Bairro": "Jardins"
+    },
+    {
+        "Restaurante": "Mexican Food",
+        "Culinaria": "Mexicana",
+        "Alimentos": [
+            {
+                "Nome": "Burrito",
+                "Preco": 30.0,
+                "Calorias": 700,
+                "Tempo_Preparo_Em_Minutos": 20,
+                "Avaliacao": 5.0,
+                "Quantidade_Avaliacoes": 2
+            },
+            {
+                "Nome": "Taco",
+                "Preco": 25.0,
+                "Calorias": 450,
+                "Tempo_Preparo_Em_Minutos": 15,
+                "Avaliacao": 3.0,
+                "Quantidade_Avaliacoes": 1
+            },
+            {
+                "Nome": "Nachos",
+                "Preco": 28.0,
+                "Calorias": 600,
+                "Tempo_Preparo_Em_Minutos": 10,
+                "Avaliacao": 4.0,
+                "Quantidade_Avaliacoes": 1
+            },
+            {
+                "Nome": "Quesadilla",
+                "Preco": 27.0,
+                "Calorias": 550,
+                "Tempo_Preparo_Em_Minutos": 15,
+                "Avaliacao": 0,
+                "Quantidade_Avaliacoes": 0
+            },
+            {
+                "Nome": "Guacamole",
+                "Preco": 20.0,
+                "Calorias": 300,
+                "Tempo_Preparo_Em_Minutos": 10,
+                "Avaliacao": 0,
+                "Quantidade_Avaliacoes": 0
+            }
+        ],
+        "Bairro": "Moema"
+    },
+    {
+        "Restaurante": "Vegan Food",
+        "Culinaria": "Vegana",
+        "Alimentos": [
+            {
+                "Nome": "Wrap de gr\u00e3o-de-bico",
+                "Preco": 26.0,
+                "Calorias": 400,
+                "Tempo_Preparo_Em_Minutos": 15,
+                "Avaliacao": 0,
+                "Quantidade_Avaliacoes": 0
+            },
+            {
+                "Nome": "Salada de quinoa",
+                "Preco": 24.0,
+                "Calorias": 350,
+                "Tempo_Preparo_Em_Minutos": 10,
+                "Avaliacao": 0,
+                "Quantidade_Avaliacoes": 0
+            },
+            {
+                "Nome": "Smoothie verde",
+                "Preco": 20.0,
+                "Calorias": 250,
+                "Tempo_Preparo_Em_Minutos": 5,
+                "Avaliacao": 0,
+                "Quantidade_Avaliacoes": 0
+            },
+            {
+                "Nome": "Tofu grelhado",
+                "Preco": 28.0,
+                "Calorias": 300,
+                "Tempo_Preparo_Em_Minutos": 15,
+                "Avaliacao": 0,
+                "Quantidade_Avaliacoes": 0
+            },
+            {
+                "Nome": "Brownie vegano",
+                "Preco": 22.0,
+                "Calorias": 450,
+                "Tempo_Preparo_Em_Minutos": 20,
+                "Avaliacao": 0,
+                "Quantidade_Avaliacoes": 0
+            }
+        ],
+        "Bairro": "Pinheiros"
+    }
+]
